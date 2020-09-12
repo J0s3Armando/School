@@ -1,0 +1,17 @@
+.notify
+{
+    width: 100%;
+    background: #fff;
+    padding: 10px 15px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.2);
+    opacity: 1;
+    transition: all .3 ease;
+}
+
+.notify:hover
+{
+    cursor: pointer;
+    opacity: .8;
+    transform: scale(1.01);
+}
